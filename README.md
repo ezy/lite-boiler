@@ -1,4 +1,4 @@
-Node Express Lite Boilerplate
+🔩 Node Express Lite Boilerplate
 ==================================
 
 This is an extremely lightweight opinionated boilerplate for Node using Express JS with middleware and dev env setup.
